@@ -6,6 +6,7 @@ fileupload 工程
 
 
 -----1.前台多样化：从jsp 到 js
+    
     1）了解和学习uploadfy jquery 插件的使用，尝试结合Spring MVC来使用。
 
 -----2.后台：首先尝试使用单线程进行处理，然后改为多线程处理：目的：锻炼和学习Java多线程
